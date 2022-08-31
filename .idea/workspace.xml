@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990db943-fee1-4c94-8a5d-2149bf91c924" name="Default Changelist" comment="authenticated">
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/loki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SideMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RootComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RootComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5d894548-63aa-426d-93e5-92f69daab589" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DYOJwsAf8LkO0ovNJzFeR8jGWc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Khanh Tran/Projects/icd-app&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Khanh Tran\\Projects\\icd-app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\assets\img" />
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app" />
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\src\components" />
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\src\screens" />
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\assets\img" />
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\src\screens" />
+      <recent name="C:\Users\Khanh Tran\Projects\icd-app\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990db943-fee1-4c94-8a5d-2149bf91c924" name="Default Changelist" comment="" />
+      <created>1660872482618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660872482618</updated>
+      <workItem from="1660872484598" duration="17203000" />
+      <workItem from="1661131230046" duration="24774000" />
+      <workItem from="1661216909040" duration="1396000" />
+      <workItem from="1661218357433" duration="190000" />
+      <workItem from="1661219023934" duration="389000" />
+      <workItem from="1661219427195" duration="19998000" />
+      <workItem from="1661303962240" duration="2746000" />
+      <workItem from="1661309680251" duration="11558000" />
+      <workItem from="1661391392948" duration="9991000" />
+      <workItem from="1661743282988" duration="601000" />
+      <workItem from="1661823038692" duration="358000" />
+      <workItem from="1661823417371" duration="55000" />
+      <workItem from="1661823479834" duration="548000" />
+      <workItem from="1661824066069" duration="408000" />
+      <workItem from="1661824504236" duration="12000" />
+      <workItem from="1661824725714" duration="6013000" />
+      <workItem from="1661916522003" duration="49000" />
+    </task>
+    <task id="LOCAL-00001" summary="authenticated">
+      <created>1661823095488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661823095488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="authenticated" />
+    <option name="LAST_COMMIT_MESSAGE" value="authenticated" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
